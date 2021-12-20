@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Monoid";
+    src: url('https://cdn.rawgit.com/yoku0206/YokuUseFonts/master/fonts/Monoid/Monoid-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monoid";
+    src: url('https://cdn.rawgit.com/yoku0206/YokuUseFonts/master/fonts/Monoid/Monoid-Bold.ttf') format('truetype');
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Monoid";
+    src: url('https://cdn.rawgit.com/yoku0206/YokuUseFonts/master/fonts/Monoid/Monoid-Italic.ttf') format('truetype');
+    font-style: italic;
+}
