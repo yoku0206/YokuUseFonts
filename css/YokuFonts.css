@@ -1,0 +1,73 @@
+@import 'https://raw.githubusercontent.com/yoku0206/YokuUseFonts/master/css/DisposableDroidBB.css';
+@import 'https://raw.githubusercontent.com/yoku0206/YokuUseFonts/master/css/Iosevka_Light.css';
+@import 'https://raw.githubusercontent.com/yoku0206/YokuUseFonts/master/css/Monoid.css';
+
+.Yoku-Font-DDBB {
+    font-family: DisposableDroidBB;
+    font-style: normal;
+}
+
+.Yoku-Font-DDBB-B {
+    font-family: DisposableDroidBB;
+    font-style: bold;
+}
+
+.Yoku-Font-DDBB-I {
+    font-family: DisposableDroidBB;
+    font-style: italic;
+}
+
+.Yoku-Font-Monoid {
+    font-family: Monoid;
+    font-style: normal;
+}
+
+.Yoku-Font-Monoid-B {
+    font-family: Monoid;
+    font-style: bold;
+}
+
+.Yoku-Font-Monoid-I {
+    font-family: Monoid;
+    font-style: italic;
+}
+
+.Yoku-Font-Iosevka {
+    font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-M {
+    font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-L {
+    font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-B {
+    font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-I {
+    font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+}
