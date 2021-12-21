@@ -5,7 +5,7 @@
 </h3>
 
 ```css=
-https://raw.githubusercontent.com/yoku0206/YokuUseFonts/master/css/YokuFonts.css
+@import 'https://raw.githubusercontent.com/yoku0206/YokuUseFonts/master/css/YokuFonts.css';
 ```
 
 <h3>
